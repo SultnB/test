@@ -1,9 +1,11 @@
-[
-  {
-    "username": "ok",
-    "password": "ok2",
-    "appunti": "ok3"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
-
-
+}
