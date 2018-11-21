@@ -1,7 +1,9 @@
-{
-  "username": "ok",
-  "password": "ok2",
-  "appunti": "ok3"
-}
+[
+  {
+    "username": "ok",
+    "password": "ok2",
+    "appunti": "ok3"
+  }
+]
 
 
