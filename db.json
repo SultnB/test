@@ -2,23 +2,23 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
       "body": "body1"
     },
     {
       "id": 2,
-      "title": "hello2"
+      "title": "hello2",
       "body": "body2"
     },
     {
       "id": 3,
-      "title": "helllo2"
+      "title": "helllo2",
       "body": "boddy2"
     }
     ,
     {
       "id": 6,
-      "title": "Antimo"
+      "title": "Antimo",
       "body": "Attolino"
     }
   ],
